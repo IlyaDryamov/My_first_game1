@@ -1,5 +1,5 @@
 # 🟩🌲💭🛩️🌀🔥♥️🌊🪣🏆 🏩 🏰 ⬛🚁
-#123
+#1234
 import pynput
 from map import Map
 import time
